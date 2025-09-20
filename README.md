@@ -10,6 +10,6 @@
 
 ### 🥇
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tgoaty&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats);
 
   
